@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![GNIT](https://img.shields.io/badge/GNIT-Greater%20Noida-8A2BE2?style=for-the-badge&logo=university&logoColor=white)
+![GNIOT](https://img.shields.io/badge/GNIT-Greater%20Noida-8A2BE2?style=for-the-badge&logo=university&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Greater%20Noida%2C%20India-4B0082?style=for-the-badge)
 
 <br/>
@@ -32,7 +32,7 @@
 ```yaml
 name       : Shreyansh Srivastava
 role       : Full Stack Developer & AI/ML Engineer
-college    : Greater Noida Institute of Technology (GNIT)
+college    : Greater Noida Institute of Technology (GNIOT)
 location   : Greater Noida, India
 focus      : Building AI-powered products that solve real-world problems
 ```
@@ -129,22 +129,22 @@ The system captures live video from a classroom camera, detects and encodes face
 ## 💼 Experience
 
 **Campus Ambassador** · E-Cell IIT Bombay
-`2023 – Present`
+`June 2026 – Present`
 
 Representing one of India's most prestigious entrepreneurship cells at the grassroots level, driving startup culture and innovation awareness among students.
 
 - Organized entrepreneurship workshops, speaker sessions, and startup pitch competitions
-- Bridging IIT Bombay's E-Cell ecosystem with student innovators at GNIT
+- Bridging IIT Bombay's E-Cell ecosystem with student innovators at GNIOT
 - Promoted ideathons, hackathons, and business model competitions across campus
 
 ![Leadership](https://img.shields.io/badge/Leadership-6A0DAD?style=flat-square) ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-8A2BE2?style=flat-square) ![Community Building](https://img.shields.io/badge/Community%20Building-9B59B6?style=flat-square)
 
 ---
 
-**Founder & Head** · NEC Cell, GNIT
-`2023 – Present`
+**Founder & Head** · NEC Cell, GNIOT
+`June 2026 – Present`
 
-Founded and currently leading the entrepreneurship and innovation cell at Greater Noida Institute of Technology.
+ Currently leading the entrepreneurship and innovation cell at Greater Noida Institute of Technology.
 
 - Built a student community focused on product thinking and startup ideation
 - Conducting regular sessions on technology, business models, and innovation
@@ -161,7 +161,7 @@ Founded and currently leading the entrepreneurship and innovation cell at Greate
 | 🎖 Recognition | Details |
 |----------------|---------|
 | 🏛 E-Cell IIT Bombay Ambassador | Selected as Campus Ambassador for IIT Bombay's premier entrepreneurship cell |
-| 🚀 NEC Cell Founder | Founded and leading the entrepreneurship cell at GNIT |
+| 🚀 NEC Cell Founder | Founded and leading the entrepreneurship cell at GNIOT |
 | 🤖 AI Systems Builder | Built production-grade AI systems — Face Controlled Car & AI Attendance System |
 | 💻 Full Stack + AI Engineer | Proficient across the complete product engineering stack |
 
