@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![GNIOT](https://img.shields.io/badge/GNIT-Greater%20Noida-8A2BE2?style=for-the-badge&logo=university&logoColor=white)
+![GNIOT](https://img.shields.io/badge/GNIOT-Greater%20Noida-8A2BE2?style=for-the-badge&logo=university&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Greater%20Noida%2C%20India-4B0082?style=for-the-badge)
 
 <br/>
@@ -39,7 +39,7 @@ focus      : Building AI-powered products that solve real-world problems
 
 I am a passionate software engineer specializing in **Full Stack Development** and **Artificial Intelligence / Machine Learning**. I build end-to-end intelligent systems — from training computer vision models to deploying production-ready web applications.
 
-As **Campus Ambassador at E-Cell IIT Bombay**, I bridge the gap between technology and entrepreneurship, fostering innovation at the grassroots level. I also founded and lead **NEC Cell** at GNIT, driving a culture of product thinking and startup ideation among students.
+As **Campus Ambassador at E-Cell IIT Bombay**, I bridge the gap between technology and entrepreneurship, fostering innovation at the grassroots level. I also founded and lead **NEC Cell** at GNIOT, driving a culture of product thinking and startup ideation among students.
 
 **Open To:** Internships · Full-Time Roles · Open Source Collaborations · Research Projects · Startup Opportunities
 
@@ -144,7 +144,7 @@ Representing one of India's most prestigious entrepreneurship cells at the grass
 **Founder & Head** · NEC Cell, GNIOT
 `June 2026 – Present`
 
- Currently leading the entrepreneurship and innovation cell at Greater Noida Institute of Technology.
+Founded and currently leading the entrepreneurship and innovation cell at Greater Noida Institute of Technology.
 
 - Built a student community focused on product thinking and startup ideation
 - Conducting regular sessions on technology, business models, and innovation
@@ -198,7 +198,7 @@ Representing one of India's most prestigious entrepreneurship cells at the grass
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh-Sri&theme=midnight-purple&hide_border=true&background=0d1117&ring=9B59B6&fire=8A2BE2&currStreakLabel=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=Shreyansh-Sri&theme=midnight-purple&hide_border=true&background=0d1117&ring=9B59B6&fire=8A2BE2&currStreakLabel=ffffff&timezone=Asia/Kolkata" />
 
 </div>
 
