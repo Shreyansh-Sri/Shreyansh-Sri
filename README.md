@@ -198,7 +198,7 @@ Founded and currently leading the entrepreneurship and innovation cell at Greate
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Shreyansh-Sri&theme=midnight-purple&hide_border=true&background=0d1117&ring=9B59B6&fire=8A2BE2&currStreakLabel=ffffff&timezone=Asia/Kolkata" />
+<img src="https://nirzak-streak-stats.vercel.app?user=Shreyansh-Sri&theme=midnight-purple&hide_border=true&background=0d1117&ring=9B59B6&fire=8A2BE2&currStreakLabel=ffffff&timezone=Asia%2FKolkata" />
 
 </div>
 
