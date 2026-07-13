@@ -214,6 +214,17 @@ Founded and currently leading the entrepreneurship and innovation cell at Greate
 
 ---
 
+📊 Stats
+------
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -222,7 +233,7 @@ Founded and currently leading the entrepreneurship and innovation cell at Greate
 
 </div>
 
----
+--- 
 
 ## 🐍 Contribution Snake
 
