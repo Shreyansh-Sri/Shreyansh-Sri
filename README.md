@@ -269,9 +269,7 @@ open_to:
   - Open Source Contributions
   - Hackathons and Competitions
 ```
-
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
