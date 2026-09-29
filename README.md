@@ -142,10 +142,9 @@ Representing one of India's most prestigious entrepreneurship cells at the grass
 
 ---
 
-**Founder & Head** · NEC Cell, GNIOT
+**Member** · NEC Cell, GNIOT
 `June 2026 – Present`
-
-Founded and currently leading the entrepreneurship and innovation cell at Greater Noida Institute of Technology.
+Member of the NEC cell at Greater Noida Institute of Technology.
 
 - Built a student community focused on product thinking and startup ideation
 - Conducting regular sessions on technology, business models, and innovation
@@ -162,7 +161,7 @@ Founded and currently leading the entrepreneurship and innovation cell at Greate
 | 🎖 Recognition | Details |
 |----------------|---------|
 | 🏛 E-Cell IIT Bombay Ambassador | Selected as Campus Ambassador for IIT Bombay's premier entrepreneurship cell |
-| 🚀 NEC Cell Founder | Founded and leading the entrepreneurship cell at GNIOT |
+| 🚀 NEC Cell Member | Leading the entrepreneurship cell at GNIOT |
 | 🤖 AI Systems Builder | Built production-grade AI systems — Face Controlled Car & AI Attendance System |
 | 💻 Full Stack + AI Engineer | Proficient across the complete product engineering stack |
 
