@@ -32,7 +32,7 @@
 
 ```yaml
 name       : Shreyansh Srivastava
-role       : Full Stack Developer & AI/ML Engineer
+role       : Frontend Developer & AI/ML Engineer
 college    : Greater Noida Institute of Technology (GNIOT)
 location   : Greater Noida, India
 focus      : Building AI-powered products that solve real-world problems
