@@ -171,7 +171,6 @@ Member of the NEC cell at Greater Noida Institute of Technology.
 ## 📜 Certifications
 
 <div align="center">
-
 ### 🏦 JP Morgan Chase
 ![JP Morgan](https://img.shields.io/badge/Forge%20Job%20Simulation-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)
 
