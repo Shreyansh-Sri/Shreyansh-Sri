@@ -288,4 +288,5 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" />
 
+
 </div>
